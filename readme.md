@@ -1,0 +1,1 @@
+this is a calculator created using html, css and javascript. The javascript is used for events and listeners and making changes to the DOM.

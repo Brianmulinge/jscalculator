@@ -1,0 +1,37 @@
+body {
+  background-color: bisque;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.calc {
+  height: 100px;
+  width: 500px;
+}
+.calc_output {
+  background-color: black;
+  display: flex;
+  justify-content: end;
+  height: 80px;
+  align-items: center;
+  font-size: xx-large;
+}
+.calc_button {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+.btn {
+  height: 100%;
+  width: 25%;
+  font-size: xx-large;
+  font-weight: 500;
+}
+.btn:last-child {
+  background-color: orange;
+}
+.btn.c {
+  width: 50%;
+}
+.btn.z {
+  width: 75%;
+}
